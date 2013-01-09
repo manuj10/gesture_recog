@@ -11,9 +11,9 @@ ___________________
 commandg/                                    -source code for command generator(c++)
 commandg.exe                                 -command generator executable 
 gestureRecognitionApplication.m              -main  m file (matlab)
-normalise.m                                  -supporting file
-computeSkinProbability.m                     -supporting file
-Skinmodel.bin                                -binary data set for skin detection
+normalise.m                                  -supporting file[1]
+computeSkinProbability.m                     -supporting file[1]
+Skinmodel.bin                                -binary data set for skin detection[1]
 README.txt                                   -This file
 
 PreRequisite:
@@ -43,5 +43,9 @@ Minimum requirements
 •	Hard disk:6 Gb or Higher
 •	Monitor: Standard VGA Monitor  
 •	Webcam with minimum 10 fps.
+
+Refences:
+[1]  C. Ó. Conaire, N. E. O'Connor and A. F. Smeaton, “Detector adaptation by maximizing agreement between independent data sources,” IEEE Computer Society Conference on Computer Vision and Pattern Recognition, pp. 1-6, June 2007.
+
 
 
