@@ -40,11 +40,11 @@ Minimum requirements
 
 •  Processor: Intel Celeron or above
 •	RAM:256 Mb
-•	Hard disk:6 Gb or Higher
 •	Monitor: Standard VGA Monitor  
 •	Webcam with minimum 10 fps.
 
 Refences:
+
 [1]  C. Ó. Conaire, N. E. O'Connor and A. F. Smeaton, “Detector adaptation by maximizing agreement between independent data sources,” IEEE Computer Society Conference on Computer Vision and Pattern Recognition, pp. 1-6, June 2007.
 
 
