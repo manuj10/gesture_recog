@@ -9,29 +9,40 @@ Various functions of Vlc linked with gestures are play/pause,stop,increase volum
 Source code content:
 ___________________
 commandg/                                    -source code for command generator(c++)
+
 commandg.exe                                 -command generator executable 
+
 gestureRecognitionApplication.m              -main  m file (matlab)
+
 normalise.m                                  -supporting file[1]
+
 computeSkinProbability.m                     -supporting file[1]
+
 Skinmodel.bin                                -binary data set for skin detection[1]
+
 README.txt                                   -This file
 
 PreRequisite:
 _____________
 ->VLC media player must be installed in default folder.
+
 ->optimum amount of light must be in room.
+
 ->Bright source of light must not be infront of webcam.
 
 Running the application:
 ________________________
 1.Install matlab.
+
 2.Open matlab and browse to project folder directory.
+
 3.Open gestureRecognitionApplication.m and debug the m file.
 
 SOftware requirements:
 ____________________
 
 ->Matlab and Vlc media player must be installed in system.
+
 ->operating system(Windows XP or above).
 
 Hardware Requirements:
@@ -39,8 +50,11 @@ ______________________
 Minimum requirements
 
 •  Processor: Intel Celeron or above
+
 •	RAM:256 Mb
+
 •	Monitor: Standard VGA Monitor  
+
 •	Webcam with minimum 10 fps.
 
 Refences:
