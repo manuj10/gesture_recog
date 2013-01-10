@@ -49,7 +49,7 @@ Hardware Requirements:
 ______________________
 Minimum requirements
 
-•  Processor: Intel Celeron or above
+• Processor: Intel Celeron or above
 
 •	RAM:256 Mb
 
