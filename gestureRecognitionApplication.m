@@ -31,7 +31,7 @@ end
 bg = source(:,:,:,1);         % read in 1st frame as background frame
 bg_bw = double(rgb2gray(bg));     % convert background to greyscale
 
-% ----------------------- set frame size variables -----------------------
+% ----------------------- set frame size variables -------------------
 fr_size = size(bg);             
 width = fr_size(2);
 height = fr_size(1);
@@ -40,7 +40,7 @@ dox=0;
 doy=0;
 area=0;
 
-% --------------------- process frames -----------------------------------
+% --------------------- process frames --------------------------------
 
 for i = 2:30
 
