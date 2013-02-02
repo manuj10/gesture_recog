@@ -61,5 +61,6 @@ Refences:
 
 [1]  C. Ó. Conaire, N. E. O'Connor and A. F. Smeaton, “Detector adaptation by maximizing agreement between independent data sources,” IEEE Computer Society Conference on Computer Vision and Pattern Recognition, pp. 1-6, June 2007.
 
+[![endorse](http://api.coderwall.com/manuj10/endorsecount.png)](http://coderwall.com/manuj10)
 
 
